@@ -14,7 +14,7 @@ const Logout = () => {
   };
   return (
     <div className="logout">
-      <h1>
+      <h1 className="wlc">
         Welcome <span className="username">{user.name}</span>
       </h1>
       <motion.button

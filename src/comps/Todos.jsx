@@ -17,6 +17,7 @@ const mapDisPatchToProps = (dispatch) => {
 
 const Todos = (props) => {
   const [todo, setTodo] = useState("");
+  console.log("ez a todos:", todo);
 
   const handleChange = (e) => {
     setTodo(e.target.value);

@@ -20,8 +20,6 @@
   box-shadow: 2px 2px 4px black;
   letter-spacing: 0.1rem;
 }
-.login-form > input:focus {
-}
 
 .login-form > button {
   width: 100px;
@@ -40,6 +38,7 @@
 }
 h1 {
   text-align: center;
+  letter-spacing: 0.1rem;
 }
 .logout-btn {
   position: relative;
@@ -49,4 +48,21 @@ h1 {
   border-radius: 4px;
   border: none;
   outline: none;
+}
+.wlc {
+  position: relative;
+  right: 30%;
+}
+@media screen and (max-width: 600px) {
+  .wlc {
+    position: relative;
+    right: 5%;
+  }
+  .logout-btn {
+    position: relative;
+    left: 5%;
+  }
+  .login-form {
+    width: 350px;
+  }
 }
