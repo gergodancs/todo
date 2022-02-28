@@ -1,6 +1,6 @@
 {
   "name": "todo",
-  "homepage": "https//:gergodancs.github.io/todos",
+  "homepage": "https//:gergodancs.github.io/todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
