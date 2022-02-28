@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//:gergodancs.github.io/todo/static/css/main.caea25ce.css",
+    "main.js": "/https//:gergodancs.github.io/todo/static/js/main.35255b6d.js",
+    "index.html": "/https//:gergodancs.github.io/todo/index.html",
+    "main.caea25ce.css.map": "/https//:gergodancs.github.io/todo/static/css/main.caea25ce.css.map",
+    "main.35255b6d.js.map": "/https//:gergodancs.github.io/todo/static/js/main.35255b6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caea25ce.css",
+    "static/js/main.35255b6d.js"
+  ]
+}
